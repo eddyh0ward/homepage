@@ -1,2 +1,2 @@
-# portfolio
-Dev Portfolio Projects
+# eddy's homepage
+A website featuring my projects
