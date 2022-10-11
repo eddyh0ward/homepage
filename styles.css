@@ -1,0 +1,89 @@
+/* 
+    <i class="fa-solid fa-ghost"></i>
+    <i class="fa-solid fa-cube fa-pull-margin"></i> 
+    <i class="fa-solid fa-hat-wizard"></i>
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+    overflow: -moz-hidden-unscrollable;
+    font-family: 'Urbanist', sans-serif;
+}
+
+body {
+    background-color: black;
+    color: #F7F3CD;
+    height: 100%;
+    width: 100%;
+}
+
+.bg {
+    margin: 50px;
+    position: relative;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+h1 {
+    font-weight: 200;
+    font-size: 2.85em;
+}
+
+.bg p {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+    align-items: flex-end;
+}
+
+a {
+    font-weight: 200;
+    font-size: 20px;
+    text-decoration: none;
+    color: #F7F3CD;
+    margin-bottom: 25px;
+}
+
+a:visited {
+    color: #F7F3CD;
+}
+
+footer {
+    font-weight: 100;
+    font-size: 15px;
+    color: #F7F3CD;
+    font-style: italic;
+    text-align: center;
+}
+
+#center-icon {
+    color: #F7F3CD;
+    margin-bottom: 45px;
+    text-align: center;
+    font-size: 2em;
+}
+
+#hp-bio {
+    width: 20%;
+}
+
+#hp-bio p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#info {
+    width: 20%;
+}
